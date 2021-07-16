@@ -1,0 +1,22 @@
+{
+  "name": "vuepratique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaerbran/VuePratique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaerbran/VuePratique/issues"
+  },
+  "homepage": "https://github.com/Kaerbran/VuePratique#readme",
+  "devDependencies": {
+    "@vue/cli-plugin-router": "^4.5.13"
+  }
+}
