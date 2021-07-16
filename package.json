@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Kaerbran/VuePratique#readme",
   "devDependencies": {
     "@vue/cli-plugin-router": "^4.5.13"
+  },
+  "dependencies": {
+    "vue-router": "^4.0.10"
   }
 }
