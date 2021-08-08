@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from '../components/HelloWorld.vue' // ".." rajouté ici
 
 export default createRouter({
   history: createWebHistory(),
